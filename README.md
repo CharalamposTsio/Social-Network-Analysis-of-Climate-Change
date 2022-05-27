@@ -1,1 +1,1 @@
-# Social-Network-Analysis-of-Climate-Change
+# Social Network Analysis of Climate-Change
